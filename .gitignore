@@ -1,0 +1,7 @@
+.cz.toml
+
+venv/
+
+db.sqlite3
+
+.cz.toml
